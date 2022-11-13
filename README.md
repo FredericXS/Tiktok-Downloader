@@ -40,7 +40,7 @@ npm start
 
 ### Running
 
-* After start te script, open your browse on http://localhost:3000
+* After start te script, open your browser on http://localhost:3000
 * Paste your TikTok link and click in the download button
 * The video will be downloaded instantly
 > <img src="https://imgur.com/avgUnw1.jpeg">
