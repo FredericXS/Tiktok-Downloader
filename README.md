@@ -18,11 +18,11 @@
 * Download and install [Visual Studio Code](https://code.visualstudio.com)
 * Open your terminal and clone the project to your PC:
 ```
-git clone https://github.com/FredericXS/Tiktok-downloader
+git clone https://github.com/FredericXS/Tiktok-Downloader
 ```
 * Enter in the project folder:
 ```
-cd Tiktok-downloader
+cd Tiktok-Downloader
 ```
 * Install npm dependencies:
 ```
