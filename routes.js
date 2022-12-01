@@ -8,10 +8,7 @@ route.get('/', (req, res) => {
 
 route.post('/', (req, res) => {
   let urlValue = req.body.url;
-  urlValue = urlValue.match(/\d+/g);
-
   downloadURL(urlValue[0]);
-
   res.render('thanks');
 });
 
