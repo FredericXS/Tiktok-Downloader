@@ -15,7 +15,6 @@
 ## Install
 
 * Download and install [Node.js](https://nodejs.org/en)
-* Download and install [Visual Studio Code](https://code.visualstudio.com)
 * Open your terminal and clone the project to your PC:
 ```
 git clone https://github.com/FredericXS/Tiktok-Downloader
