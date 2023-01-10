@@ -8,7 +8,7 @@ route.get('/', (req, res) => {
 
 route.post('/', (req, res) => {
   let urlValue = req.body.url;
-  downloadURL(urlValue[0]);
+  downloadURL(urlValue);
   res.render('thanks');
 });
 
